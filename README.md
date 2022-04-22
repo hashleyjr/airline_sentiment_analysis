@@ -1,3 +1,5 @@
 # Airline sentiment analysis by Hashley Ramanankatsoina and Hilary Seugue Nonda
 
-This project was realized in the context of the course "Machine Learning for NLP". You cand find the link of our code here: https://colab.research.google.com/drive/1waaYbIVps88Iy6gSBle6F5ZmeP1PgUk_
+This project was realized in the context of the course "Machine Learning for NLP". Main code can be found here: 
+
+Code for scrapping tweets can be found here: 
